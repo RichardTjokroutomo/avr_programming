@@ -1,0 +1,2 @@
+1 - blink LED 
+2 - just like 1, but do compilation manually, plus some linking
